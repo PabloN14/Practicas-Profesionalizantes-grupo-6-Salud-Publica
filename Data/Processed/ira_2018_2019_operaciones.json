@@ -1,0 +1,280 @@
+[
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "anio",
+    "newColumnName": "año",
+    "description": "Renombra la columna anio a año"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "año",
+          "expression": "value",
+          "columnName": "año",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": 2020,
+                "l": "2020"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cantidad_casos",
+          "expression": "grel:value == 0",
+          "columnName": "cantidad_casos",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "evento_nombre",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Neumonia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Neumonía"
+      }
+    ],
+    "description": "Editar celdas en masa en columna evento_nombre"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "evento_nombre",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bronquiolitis en menores de 2 anos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bronquiolitis en menores de 2 años"
+      }
+    ],
+    "description": "Editar celdas en masa en columna evento_nombre"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "provincia_nombre",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cordoba"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Córdoba"
+      }
+    ],
+    "description": "Editar celdas en masa en columna provincia_nombre"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "provincia_nombre",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Entre Rios"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Entre Ríos"
+      }
+    ],
+    "description": "Editar celdas en masa en columna provincia_nombre"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "provincia_nombre",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Neuquen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Neuquén"
+      }
+    ],
+    "description": "Editar celdas en masa en columna provincia_nombre"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "provincia_nombre",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rio Negro"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Río Negro"
+      }
+    ],
+    "description": "Editar celdas en masa en columna provincia_nombre"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "provincia_nombre",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tucuman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tucumán"
+      }
+    ],
+    "description": "Editar celdas en masa en columna provincia_nombre"
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "evento_nombre",
+    "urlExpression": "grel:if(value.contains(\"ETI\"), \"ETI\", if(value.toLowercase().contains(\"neumon\"), \"Neumonía\", \"Bronquiolitis\"))",
+    "onError": "set-to-blank",
+    "newColumnName": "evento_grupo",
+    "columnInsertIndex": 7,
+    "delay": 500,
+    "cacheResponses": true,
+    "httpHeadersJson": [
+      {
+        "name": "authorization",
+        "value": ""
+      },
+      {
+        "name": "if-modified-since",
+        "value": ""
+      },
+      {
+        "name": "accept-language",
+        "value": ""
+      },
+      {
+        "name": "accept-encoding",
+        "value": ""
+      },
+      {
+        "name": "user-agent",
+        "value": "OpenRefine 3.10.0 [TRUNK]"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      },
+      {
+        "name": "accept-charset",
+        "value": ""
+      }
+    ],
+    "description": "Crear la columna evento_grupo en el índice 7 mediante la obtención de URLs basadas en la columna evento_nombre utilizando la expresión grel:if(value.contains(\"ETI\"), \"ETI\", if(value.toLowercase().contains(\"neumon\"), \"Neumonía\", \"Bronquiolitis\"))"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "grupo_edad_desc",
+    "expression": "grel:if(value.endsWith(\" m\"), value.replace(\" m\", \" meses\"), if(value == \">= a 75\", \"75 años o más\", if(value == \"Edad Sin Esp.\", \"Sin especificar\", value + \" años\")))",
+    "onError": "set-to-blank",
+    "newColumnName": "grupo_edad",
+    "columnInsertIndex": 10,
+    "description": "Crear la columna grupo_edad en el índice 10 basada en la columna grupo_edad_desc usando la expresión grel:if(value.endsWith(\" m\"), value.replace(\" m\", \" meses\"), if(value == \">= a 75\", \"75 años o más\", if(value == \"Edad Sin Esp.\", \"Sin especificar\", value + \" años\")))"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "provincia_id",
+    "expression": "grel:value.toString() + \"|\" + cells[\"departamento_id\"].value.toString() + \"|\" + cells[\"año\"].value.toString() + \"|\" + cells[\"semanas_epidemiologicas\"].value.toString() + \"|\" + cells[\"evento_nombre\"].value + \"|\" + cells[\"grupo_edad_id\"].value.toString()",
+    "onError": "set-to-blank",
+    "newColumnName": "clave",
+    "columnInsertIndex": 3,
+    "description": "Crear la columna clave en el índice 3 basada en la columna provincia_id usando la expresión grel:value.toString() + \"|\" + cells[\"departamento_id\"].value.toString() + \"|\" + cells[\"año\"].value.toString() + \"|\" + cells[\"semanas_epidemiologicas\"].value.toString() + \"|\" + cells[\"evento_nombre\"].value + \"|\" + cells[\"grupo_edad_id\"].value.toString()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "clave",
+    "description": "Eliminar columna clave"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "provincia_nombre",
+    "expression": "grel:value.toString() + \"|\" + cells[\"departamento_id\"].value.toString() + \"|\" + cells[\"año\"].value.toString() + \"|\" + cells[\"semanas_epidemiologicas\"].value.toString() + \"|\" + cells[\"evento_nombre\"].value + \"|\" + cells[\"grupo_edad_id\"].value.toString()",
+    "onError": "set-to-blank",
+    "newColumnName": "clave",
+    "columnInsertIndex": 4,
+    "description": "Crear la columna clave en el índice 4 basada en la columna provincia_nombre usando la expresión grel:value.toString() + \"|\" + cells[\"departamento_id\"].value.toString() + \"|\" + cells[\"año\"].value.toString() + \"|\" + cells[\"semanas_epidemiologicas\"].value.toString() + \"|\" + cells[\"evento_nombre\"].value + \"|\" + cells[\"grupo_edad_id\"].value.toString()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "clave",
+    "description": "Eliminar columna clave"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "evento_nombre",
+    "expression": "grel:if(value.contains(\"ETI\"), \"ETI\", if(value.toLowercase().contains(\"neumon\"), \"Neumonía\", \"Bronquiolitis\"))",
+    "onError": "set-to-blank",
+    "newColumnName": "evento_grupo",
+    "columnInsertIndex": 7,
+    "description": "Crear la columna evento_grupo en el índice 7 basada en la columna evento_nombre usando la expresión grel:if(value.contains(\"ETI\"), \"ETI\", if(value.toLowercase().contains(\"neumon\"), \"Neumonía\", \"Bronquiolitis\"))"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "grupo_edad_desc",
+    "expression": "grel:if(value.endsWith(\" m\"), value.replace(\" m\", \" meses\"), if(value == \">= a 75\", \"75 años o más\", if(value == \"Edad Sin Esp.\", \"Sin especificar\", value + \" años\")))",
+    "onError": "set-to-blank",
+    "newColumnName": "grupo_edad",
+    "columnInsertIndex": 10,
+    "description": "Crear la columna grupo_edad en el índice 10 basada en la columna grupo_edad_desc usando la expresión grel:if(value.endsWith(\" m\"), value.replace(\" m\", \" meses\"), if(value == \">= a 75\", \"75 años o más\", if(value == \"Edad Sin Esp.\", \"Sin especificar\", value + \" años\")))"
+  }
+]

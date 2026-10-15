@@ -1,0 +1,15 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "primera_dosis_cantidad",
+    "expression": "grel:value + cells[\"dosis_unica_cantidad\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "personas_al_menos_1_dosis",
+    "columnInsertIndex": 5,
+    "description": "Crear la columna personas_al_menos_1_dosis en el índice 5 basada en la columna primera_dosis_cantidad usando la expresión grel:value + cells[\"dosis_unica_cantidad\"].value"
+  }
+]
