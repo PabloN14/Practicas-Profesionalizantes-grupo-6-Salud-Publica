@@ -1,0 +1,765 @@
+﻿vacuna,dosis,poblacion_objetivo,provincia_id,provincia,poblacion,dosis_aplicadas,cobertura_pct
+Hepatitis B,Dosis Neonatal,< 12 hs,6,Buenos Aires,161624,119887,74.2
+Hepatitis B,Dosis Neonatal,< 12 hs,2,CABA,23988,20929,87.2
+Hepatitis B,Dosis Neonatal,< 12 hs,10,Catamarca,3914,3126,79.9
+Hepatitis B,Dosis Neonatal,< 12 hs,22,Chaco,14045,15010,106.9
+Hepatitis B,Dosis Neonatal,< 12 hs,26,Chubut,5003,5005,100.0
+Hepatitis B,Dosis Neonatal,< 12 hs,14,Córdoba,33694,34810,103.3
+Hepatitis B,Dosis Neonatal,< 12 hs,18,Corrientes,13702,8558,62.5
+Hepatitis B,Dosis Neonatal,< 12 hs,30,Entre Ríos,12403,11425,92.1
+Hepatitis B,Dosis Neonatal,< 12 hs,34,Formosa,8219,3876,47.2
+Hepatitis B,Dosis Neonatal,< 12 hs,38,Jujuy,6316,5471,86.6
+Hepatitis B,Dosis Neonatal,< 12 hs,42,La Pampa,3124,3070,98.3
+Hepatitis B,Dosis Neonatal,< 12 hs,46,La Rioja,4392,3643,82.9
+Hepatitis B,Dosis Neonatal,< 12 hs,50,Mendoza,18474,17493,94.7
+Hepatitis B,Dosis Neonatal,< 12 hs,54,Misiones,18880,12141,64.3
+Hepatitis B,Dosis Neonatal,< 12 hs,58,Neuquén,6792,6727,99.0
+Hepatitis B,Dosis Neonatal,< 12 hs,62,Río Negro,6256,6397,102.3
+Hepatitis B,Dosis Neonatal,< 12 hs,66,Salta,14443,13945,96.6
+Hepatitis B,Dosis Neonatal,< 12 hs,70,San Juan,8684,8940,102.9
+Hepatitis B,Dosis Neonatal,< 12 hs,74,San Luis,4329,4304,99.4
+Hepatitis B,Dosis Neonatal,< 12 hs,78,Santa Cruz,3050,3261,106.9
+Hepatitis B,Dosis Neonatal,< 12 hs,82,Santa Fe,37257,29571,79.4
+Hepatitis B,Dosis Neonatal,< 12 hs,86,Santiago del Estero,11127,10148,91.2
+Hepatitis B,Dosis Neonatal,< 12 hs,94,Tierra del Fuego,1248,1254,100.5
+Hepatitis B,Dosis Neonatal,< 12 hs,90,Tucumán,17057,14756,86.5
+Hepatitis B,Dosis Neonatal,< 12 hs,0,Total país,438021,363747,83.0
+BCG,Única Dosis,menor de 7 días,6,Buenos Aires,161624,131442,81.3
+BCG,Única Dosis,menor de 7 días,2,CABA,23988,21340,89.0
+BCG,Única Dosis,menor de 7 días,10,Catamarca,3914,3297,84.2
+BCG,Única Dosis,menor de 7 días,22,Chaco,14045,15259,108.6
+BCG,Única Dosis,menor de 7 días,26,Chubut,5003,5007,100.1
+BCG,Única Dosis,menor de 7 días,14,Córdoba,33694,33598,99.7
+BCG,Única Dosis,menor de 7 días,18,Corrientes,13702,10447,76.2
+BCG,Única Dosis,menor de 7 días,30,Entre Ríos,12403,11866,95.7
+BCG,Única Dosis,menor de 7 días,34,Formosa,8219,3933,47.9
+BCG,Única Dosis,menor de 7 días,38,Jujuy,6316,6446,102.1
+BCG,Única Dosis,menor de 7 días,42,La Pampa,3124,3081,98.6
+BCG,Única Dosis,menor de 7 días,46,La Rioja,4392,3537,80.5
+BCG,Única Dosis,menor de 7 días,50,Mendoza,18474,17542,95.0
+BCG,Única Dosis,menor de 7 días,54,Misiones,18880,12422,65.8
+BCG,Única Dosis,menor de 7 días,58,Neuquén,6792,6709,98.8
+BCG,Única Dosis,menor de 7 días,62,Río Negro,6256,6435,102.9
+BCG,Única Dosis,menor de 7 días,66,Salta,14443,13832,95.8
+BCG,Única Dosis,menor de 7 días,70,San Juan,8684,9059,104.3
+BCG,Única Dosis,menor de 7 días,74,San Luis,4329,4411,101.9
+BCG,Única Dosis,menor de 7 días,78,Santa Cruz,3050,3221,105.6
+BCG,Única Dosis,menor de 7 días,82,Santa Fe,37257,31308,84.0
+BCG,Única Dosis,menor de 7 días,86,Santiago del Estero,11127,10524,94.6
+BCG,Única Dosis,menor de 7 días,94,Tierra del Fuego,1248,1255,100.6
+BCG,Única Dosis,menor de 7 días,90,Tucumán,17057,15450,90.6
+BCG,Única Dosis,menor de 7 días,0,Total país,438021,381421,87.1
+Rotavirus,1° Dosis,2 meses,6,Buenos Aires,161624,116781,72.3
+Rotavirus,1° Dosis,2 meses,2,CABA,23988,16965,70.7
+Rotavirus,1° Dosis,2 meses,10,Catamarca,3914,3594,91.8
+Rotavirus,1° Dosis,2 meses,22,Chaco,14045,12211,86.9
+Rotavirus,1° Dosis,2 meses,26,Chubut,5003,4764,95.2
+Rotavirus,1° Dosis,2 meses,14,Córdoba,33694,30908,91.7
+Rotavirus,1° Dosis,2 meses,18,Corrientes,13702,11093,81.0
+Rotavirus,1° Dosis,2 meses,30,Entre Ríos,12403,11544,93.1
+Rotavirus,1° Dosis,2 meses,34,Formosa,8219,5715,69.5
+Rotavirus,1° Dosis,2 meses,38,Jujuy,6316,6177,97.8
+Rotavirus,1° Dosis,2 meses,42,La Pampa,3124,2953,94.5
+Rotavirus,1° Dosis,2 meses,46,La Rioja,4392,3079,70.1
+Rotavirus,1° Dosis,2 meses,50,Mendoza,18474,17703,95.8
+Rotavirus,1° Dosis,2 meses,54,Misiones,18880,14974,79.3
+Rotavirus,1° Dosis,2 meses,58,Neuquén,6792,6537,96.2
+Rotavirus,1° Dosis,2 meses,62,Río Negro,6256,6345,101.4
+Rotavirus,1° Dosis,2 meses,66,Salta,14443,13477,93.3
+Rotavirus,1° Dosis,2 meses,70,San Juan,8684,8099,93.3
+Rotavirus,1° Dosis,2 meses,74,San Luis,4329,4288,99.1
+Rotavirus,1° Dosis,2 meses,78,Santa Cruz,3050,2558,83.9
+Rotavirus,1° Dosis,2 meses,82,Santa Fe,37257,31442,84.4
+Rotavirus,1° Dosis,2 meses,86,Santiago del Estero,11127,9711,87.3
+Rotavirus,1° Dosis,2 meses,94,Tierra del Fuego,1248,1236,99.0
+Rotavirus,1° Dosis,2 meses,90,Tucumán,17057,14657,85.9
+Rotavirus,1° Dosis,2 meses,0,Total país,438021,356811,81.5
+Rotavirus,2° Dosis,4 meses,6,Buenos Aires,161624,110614,68.4
+Rotavirus,2° Dosis,4 meses,2,CABA,23988,15564,64.9
+Rotavirus,2° Dosis,4 meses,10,Catamarca,3914,3415,87.3
+Rotavirus,2° Dosis,4 meses,22,Chaco,14045,11742,83.6
+Rotavirus,2° Dosis,4 meses,26,Chubut,5003,4612,92.2
+Rotavirus,2° Dosis,4 meses,14,Córdoba,33694,28508,84.6
+Rotavirus,2° Dosis,4 meses,18,Corrientes,13702,10613,77.5
+Rotavirus,2° Dosis,4 meses,30,Entre Ríos,12403,11264,90.8
+Rotavirus,2° Dosis,4 meses,34,Formosa,8219,5361,65.2
+Rotavirus,2° Dosis,4 meses,38,Jujuy,6316,6028,95.4
+Rotavirus,2° Dosis,4 meses,42,La Pampa,3124,2859,91.5
+Rotavirus,2° Dosis,4 meses,46,La Rioja,4392,3038,69.2
+Rotavirus,2° Dosis,4 meses,50,Mendoza,18474,16981,91.9
+Rotavirus,2° Dosis,4 meses,54,Misiones,18880,11975,63.4
+Rotavirus,2° Dosis,4 meses,58,Neuquén,6792,6384,94.0
+Rotavirus,2° Dosis,4 meses,62,Río Negro,6256,6029,96.4
+Rotavirus,2° Dosis,4 meses,66,Salta,14443,13068,90.5
+Rotavirus,2° Dosis,4 meses,70,San Juan,8684,7520,86.6
+Rotavirus,2° Dosis,4 meses,74,San Luis,4329,4205,97.1
+Rotavirus,2° Dosis,4 meses,78,Santa Cruz,3050,2454,80.5
+Rotavirus,2° Dosis,4 meses,82,Santa Fe,37257,29954,80.4
+Rotavirus,2° Dosis,4 meses,86,Santiago del Estero,11127,9293,83.5
+Rotavirus,2° Dosis,4 meses,94,Tierra del Fuego,1248,1187,95.1
+Rotavirus,2° Dosis,4 meses,90,Tucumán,17057,14072,82.5
+Rotavirus,2° Dosis,4 meses,0,Total país,438021,336740,76.9
+Quíntuple/Séxtuple,1° Dosis,2 meses,6,Buenos Aires,161624,121899,75.4
+Quíntuple/Séxtuple,1° Dosis,2 meses,2,CABA,23988,17951,74.8
+Quíntuple/Séxtuple,1° Dosis,2 meses,10,Catamarca,3914,3705,94.7
+Quíntuple/Séxtuple,1° Dosis,2 meses,22,Chaco,14045,12906,91.9
+Quíntuple/Séxtuple,1° Dosis,2 meses,26,Chubut,5003,4891,97.8
+Quíntuple/Séxtuple,1° Dosis,2 meses,14,Córdoba,33694,32242,95.7
+Quíntuple/Séxtuple,1° Dosis,2 meses,18,Corrientes,13702,11720,85.5
+Quíntuple/Séxtuple,1° Dosis,2 meses,30,Entre Ríos,12403,11950,96.3
+Quíntuple/Séxtuple,1° Dosis,2 meses,34,Formosa,8219,5681,69.1
+Quíntuple/Séxtuple,1° Dosis,2 meses,38,Jujuy,6316,6158,97.5
+Quíntuple/Séxtuple,1° Dosis,2 meses,42,La Pampa,3124,3014,96.5
+Quíntuple/Séxtuple,1° Dosis,2 meses,46,La Rioja,4392,3221,73.3
+Quíntuple/Séxtuple,1° Dosis,2 meses,50,Mendoza,18474,18445,99.8
+Quíntuple/Séxtuple,1° Dosis,2 meses,54,Misiones,18880,15611,82.7
+Quíntuple/Séxtuple,1° Dosis,2 meses,58,Neuquén,6792,6717,98.9
+Quíntuple/Séxtuple,1° Dosis,2 meses,62,Río Negro,6256,6619,105.8
+Quíntuple/Séxtuple,1° Dosis,2 meses,66,Salta,14443,13955,96.6
+Quíntuple/Séxtuple,1° Dosis,2 meses,70,San Juan,8684,8387,96.6
+Quíntuple/Séxtuple,1° Dosis,2 meses,74,San Luis,4329,4373,101.0
+Quíntuple/Séxtuple,1° Dosis,2 meses,78,Santa Cruz,3050,2640,86.6
+Quíntuple/Séxtuple,1° Dosis,2 meses,82,Santa Fe,37257,32224,86.5
+Quíntuple/Séxtuple,1° Dosis,2 meses,86,Santiago del Estero,11127,10495,94.3
+Quíntuple/Séxtuple,1° Dosis,2 meses,94,Tierra del Fuego,1248,1260,101.0
+Quíntuple/Séxtuple,1° Dosis,2 meses,90,Tucumán,17057,15097,88.5
+Quíntuple/Séxtuple,1° Dosis,2 meses,0,Total país,438021,371161,84.7
+Quíntuple/Séxtuple,2° Dosis,4 meses,6,Buenos Aires,161624,118611,73.4
+Quíntuple/Séxtuple,2° Dosis,4 meses,2,CABA,23988,16490,68.7
+Quíntuple/Séxtuple,2° Dosis,4 meses,10,Catamarca,3914,3746,95.7
+Quíntuple/Séxtuple,2° Dosis,4 meses,22,Chaco,14045,12950,92.2
+Quíntuple/Séxtuple,2° Dosis,4 meses,26,Chubut,5003,4879,97.5
+Quíntuple/Séxtuple,2° Dosis,4 meses,14,Córdoba,33694,31431,93.3
+Quíntuple/Séxtuple,2° Dosis,4 meses,18,Corrientes,13702,11593,84.6
+Quíntuple/Séxtuple,2° Dosis,4 meses,30,Entre Ríos,12403,12150,98.0
+Quíntuple/Séxtuple,2° Dosis,4 meses,34,Formosa,8219,5802,70.6
+Quíntuple/Séxtuple,2° Dosis,4 meses,38,Jujuy,6316,6027,95.4
+Quíntuple/Séxtuple,2° Dosis,4 meses,42,La Pampa,3124,3014,96.5
+Quíntuple/Séxtuple,2° Dosis,4 meses,46,La Rioja,4392,3341,76.1
+Quíntuple/Séxtuple,2° Dosis,4 meses,50,Mendoza,18474,18069,97.8
+Quíntuple/Séxtuple,2° Dosis,4 meses,54,Misiones,18880,15432,81.7
+Quíntuple/Séxtuple,2° Dosis,4 meses,58,Neuquén,6792,6743,99.3
+Quíntuple/Séxtuple,2° Dosis,4 meses,62,Río Negro,6256,6519,104.2
+Quíntuple/Séxtuple,2° Dosis,4 meses,66,Salta,14443,14058,97.3
+Quíntuple/Séxtuple,2° Dosis,4 meses,70,San Juan,8684,8101,93.3
+Quíntuple/Séxtuple,2° Dosis,4 meses,74,San Luis,4329,4437,102.5
+Quíntuple/Séxtuple,2° Dosis,4 meses,78,Santa Cruz,3050,2656,87.1
+Quíntuple/Séxtuple,2° Dosis,4 meses,82,Santa Fe,37257,32329,86.8
+Quíntuple/Séxtuple,2° Dosis,4 meses,86,Santiago del Estero,11127,10863,97.6
+Quíntuple/Séxtuple,2° Dosis,4 meses,94,Tierra del Fuego,1248,1263,101.2
+Quíntuple/Séxtuple,2° Dosis,4 meses,90,Tucumán,17057,15160,88.9
+Quíntuple/Séxtuple,2° Dosis,4 meses,0,Total país,438021,365664,83.5
+Quíntuple/Séxtuple,3° Dosis,6 meses,6,Buenos Aires,161624,112247,69.4
+Quíntuple/Séxtuple,3° Dosis,6 meses,2,CABA,23988,15648,65.2
+Quíntuple/Séxtuple,3° Dosis,6 meses,10,Catamarca,3914,3416,87.3
+Quíntuple/Séxtuple,3° Dosis,6 meses,22,Chaco,14045,12443,88.6
+Quíntuple/Séxtuple,3° Dosis,6 meses,26,Chubut,5003,4654,93.0
+Quíntuple/Séxtuple,3° Dosis,6 meses,14,Córdoba,33694,29470,87.5
+Quíntuple/Séxtuple,3° Dosis,6 meses,18,Corrientes,13702,10772,78.6
+Quíntuple/Séxtuple,3° Dosis,6 meses,30,Entre Ríos,12403,11438,92.2
+Quíntuple/Séxtuple,3° Dosis,6 meses,34,Formosa,8219,5361,65.2
+Quíntuple/Séxtuple,3° Dosis,6 meses,38,Jujuy,6316,5784,91.6
+Quíntuple/Séxtuple,3° Dosis,6 meses,42,La Pampa,3124,2884,92.3
+Quíntuple/Séxtuple,3° Dosis,6 meses,46,La Rioja,4392,3064,69.8
+Quíntuple/Séxtuple,3° Dosis,6 meses,50,Mendoza,18474,17189,93.0
+Quíntuple/Séxtuple,3° Dosis,6 meses,54,Misiones,18880,13857,73.4
+Quíntuple/Séxtuple,3° Dosis,6 meses,58,Neuquén,6792,6583,96.9
+Quíntuple/Séxtuple,3° Dosis,6 meses,62,Río Negro,6256,6186,98.9
+Quíntuple/Séxtuple,3° Dosis,6 meses,66,Salta,14443,13463,93.2
+Quíntuple/Séxtuple,3° Dosis,6 meses,70,San Juan,8684,7521,86.6
+Quíntuple/Séxtuple,3° Dosis,6 meses,74,San Luis,4329,4367,100.9
+Quíntuple/Séxtuple,3° Dosis,6 meses,78,Santa Cruz,3050,2546,83.5
+Quíntuple/Séxtuple,3° Dosis,6 meses,82,Santa Fe,37257,30367,81.5
+Quíntuple/Séxtuple,3° Dosis,6 meses,86,Santiago del Estero,11127,10011,90.0
+Quíntuple/Séxtuple,3° Dosis,6 meses,94,Tierra del Fuego,1248,1255,100.6
+Quíntuple/Séxtuple,3° Dosis,6 meses,90,Tucumán,17057,14735,86.4
+Quíntuple/Séxtuple,3° Dosis,6 meses,0,Total país,438021,345261,78.8
+IPV/Séxtuple,1° Dosis,2 meses,6,Buenos Aires,161624,122313,75.7
+IPV/Séxtuple,1° Dosis,2 meses,2,CABA,23988,17807,74.2
+IPV/Séxtuple,1° Dosis,2 meses,10,Catamarca,3914,3712,94.8
+IPV/Séxtuple,1° Dosis,2 meses,22,Chaco,14045,12920,92.0
+IPV/Séxtuple,1° Dosis,2 meses,26,Chubut,5003,4892,97.8
+IPV/Séxtuple,1° Dosis,2 meses,14,Córdoba,33694,32302,95.9
+IPV/Séxtuple,1° Dosis,2 meses,18,Corrientes,13702,11747,85.7
+IPV/Séxtuple,1° Dosis,2 meses,30,Entre Ríos,12403,11931,96.2
+IPV/Séxtuple,1° Dosis,2 meses,34,Formosa,8219,5690,69.2
+IPV/Séxtuple,1° Dosis,2 meses,38,Jujuy,6316,6292,99.6
+IPV/Séxtuple,1° Dosis,2 meses,42,La Pampa,3124,3020,96.7
+IPV/Séxtuple,1° Dosis,2 meses,46,La Rioja,4392,3263,74.3
+IPV/Séxtuple,1° Dosis,2 meses,50,Mendoza,18474,18428,99.8
+IPV/Séxtuple,1° Dosis,2 meses,54,Misiones,18880,16019,84.8
+IPV/Séxtuple,1° Dosis,2 meses,58,Neuquén,6792,6709,98.8
+IPV/Séxtuple,1° Dosis,2 meses,62,Río Negro,6256,6664,106.5
+IPV/Séxtuple,1° Dosis,2 meses,66,Salta,14443,13936,96.5
+IPV/Séxtuple,1° Dosis,2 meses,70,San Juan,8684,8647,99.6
+IPV/Séxtuple,1° Dosis,2 meses,74,San Luis,4329,4367,100.9
+IPV/Séxtuple,1° Dosis,2 meses,78,Santa Cruz,3050,2646,86.8
+IPV/Séxtuple,1° Dosis,2 meses,82,Santa Fe,37257,32382,86.9
+IPV/Séxtuple,1° Dosis,2 meses,86,Santiago del Estero,11127,10467,94.1
+IPV/Séxtuple,1° Dosis,2 meses,94,Tierra del Fuego,1248,1260,101.0
+IPV/Séxtuple,1° Dosis,2 meses,90,Tucumán,17057,14981,87.8
+IPV/Séxtuple,1° Dosis,2 meses,0,Total país,438021,372395,85.0
+IPV/Séxtuple,2° Dosis,4 meses,6,Buenos Aires,161624,118769,73.5
+IPV/Séxtuple,2° Dosis,4 meses,2,CABA,23988,16707,69.6
+IPV/Séxtuple,2° Dosis,4 meses,10,Catamarca,3914,3725,95.2
+IPV/Séxtuple,2° Dosis,4 meses,22,Chaco,14045,12971,92.4
+IPV/Séxtuple,2° Dosis,4 meses,26,Chubut,5003,4890,97.7
+IPV/Séxtuple,2° Dosis,4 meses,14,Córdoba,33694,31312,92.9
+IPV/Séxtuple,2° Dosis,4 meses,18,Corrientes,13702,11672,85.2
+IPV/Séxtuple,2° Dosis,4 meses,30,Entre Ríos,12403,12137,97.9
+IPV/Séxtuple,2° Dosis,4 meses,34,Formosa,8219,5789,70.4
+IPV/Séxtuple,2° Dosis,4 meses,38,Jujuy,6316,6356,100.6
+IPV/Séxtuple,2° Dosis,4 meses,42,La Pampa,3124,3008,96.3
+IPV/Séxtuple,2° Dosis,4 meses,46,La Rioja,4392,3358,76.5
+IPV/Séxtuple,2° Dosis,4 meses,50,Mendoza,18474,18059,97.8
+IPV/Séxtuple,2° Dosis,4 meses,54,Misiones,18880,15997,84.7
+IPV/Séxtuple,2° Dosis,4 meses,58,Neuquén,6792,6735,99.2
+IPV/Séxtuple,2° Dosis,4 meses,62,Río Negro,6256,6603,105.5
+IPV/Séxtuple,2° Dosis,4 meses,66,Salta,14443,14008,97.0
+IPV/Séxtuple,2° Dosis,4 meses,70,San Juan,8684,8476,97.6
+IPV/Séxtuple,2° Dosis,4 meses,74,San Luis,4329,4427,102.3
+IPV/Séxtuple,2° Dosis,4 meses,78,Santa Cruz,3050,2649,86.9
+IPV/Séxtuple,2° Dosis,4 meses,82,Santa Fe,37257,32464,87.1
+IPV/Séxtuple,2° Dosis,4 meses,86,Santiago del Estero,11127,10817,97.2
+IPV/Séxtuple,2° Dosis,4 meses,94,Tierra del Fuego,1248,1264,101.3
+IPV/Séxtuple,2° Dosis,4 meses,90,Tucumán,17057,15180,89.0
+IPV/Séxtuple,2° Dosis,4 meses,0,Total país,438021,367373,83.9
+IPV/Séxtuple,3° Dosis,6 meses,6,Buenos Aires,161624,106371,65.8
+IPV/Séxtuple,3° Dosis,6 meses,2,CABA,23988,15822,66.0
+IPV/Séxtuple,3° Dosis,6 meses,10,Catamarca,3914,3395,86.7
+IPV/Séxtuple,3° Dosis,6 meses,22,Chaco,14045,12320,87.7
+IPV/Séxtuple,3° Dosis,6 meses,26,Chubut,5003,4612,92.2
+IPV/Séxtuple,3° Dosis,6 meses,14,Córdoba,33694,29315,87.0
+IPV/Séxtuple,3° Dosis,6 meses,18,Corrientes,13702,10766,78.6
+IPV/Séxtuple,3° Dosis,6 meses,30,Entre Ríos,12403,11387,91.8
+IPV/Séxtuple,3° Dosis,6 meses,34,Formosa,8219,5298,64.5
+IPV/Séxtuple,3° Dosis,6 meses,38,Jujuy,6316,6214,98.4
+IPV/Séxtuple,3° Dosis,6 meses,42,La Pampa,3124,2852,91.3
+IPV/Séxtuple,3° Dosis,6 meses,46,La Rioja,4392,3102,70.6
+IPV/Séxtuple,3° Dosis,6 meses,50,Mendoza,18474,17208,93.1
+IPV/Séxtuple,3° Dosis,6 meses,54,Misiones,18880,14423,76.4
+IPV/Séxtuple,3° Dosis,6 meses,58,Neuquén,6792,6577,96.8
+IPV/Séxtuple,3° Dosis,6 meses,62,Río Negro,6256,6233,99.6
+IPV/Séxtuple,3° Dosis,6 meses,66,Salta,14443,13418,92.9
+IPV/Séxtuple,3° Dosis,6 meses,70,San Juan,8684,8001,92.1
+IPV/Séxtuple,3° Dosis,6 meses,74,San Luis,4329,4360,100.7
+IPV/Séxtuple,3° Dosis,6 meses,78,Santa Cruz,3050,2540,83.3
+IPV/Séxtuple,3° Dosis,6 meses,82,Santa Fe,37257,29965,80.4
+IPV/Séxtuple,3° Dosis,6 meses,86,Santiago del Estero,11127,9948,89.4
+IPV/Séxtuple,3° Dosis,6 meses,94,Tierra del Fuego,1248,1253,100.4
+IPV/Séxtuple,3° Dosis,6 meses,90,Tucumán,17057,14649,85.9
+IPV/Séxtuple,3° Dosis,6 meses,0,Total país,438021,340029,77.6
+Neumococo,1° Dosis,2 meses,6,Buenos Aires,161624,121906,75.4
+Neumococo,1° Dosis,2 meses,2,CABA,23988,17305,72.1
+Neumococo,1° Dosis,2 meses,10,Catamarca,3914,3669,93.7
+Neumococo,1° Dosis,2 meses,22,Chaco,14045,12771,90.9
+Neumococo,1° Dosis,2 meses,26,Chubut,5003,4877,97.5
+Neumococo,1° Dosis,2 meses,14,Córdoba,33694,32275,95.8
+Neumococo,1° Dosis,2 meses,18,Corrientes,13702,11651,85.0
+Neumococo,1° Dosis,2 meses,30,Entre Ríos,12403,11893,95.9
+Neumococo,1° Dosis,2 meses,34,Formosa,8219,5822,70.8
+Neumococo,1° Dosis,2 meses,38,Jujuy,6316,6333,100.3
+Neumococo,1° Dosis,2 meses,42,La Pampa,3124,3016,96.5
+Neumococo,1° Dosis,2 meses,46,La Rioja,4392,3231,73.6
+Neumococo,1° Dosis,2 meses,50,Mendoza,18474,18219,98.6
+Neumococo,1° Dosis,2 meses,54,Misiones,18880,16105,85.3
+Neumococo,1° Dosis,2 meses,58,Neuquén,6792,6688,98.5
+Neumococo,1° Dosis,2 meses,62,Río Negro,6256,6591,105.4
+Neumococo,1° Dosis,2 meses,66,Salta,14443,13919,96.4
+Neumococo,1° Dosis,2 meses,70,San Juan,8684,8629,99.4
+Neumococo,1° Dosis,2 meses,74,San Luis,4329,4362,100.8
+Neumococo,1° Dosis,2 meses,78,Santa Cruz,3050,2648,86.8
+Neumococo,1° Dosis,2 meses,82,Santa Fe,37257,31390,84.3
+Neumococo,1° Dosis,2 meses,86,Santiago del Estero,11127,10486,94.2
+Neumococo,1° Dosis,2 meses,94,Tierra del Fuego,1248,1259,100.9
+Neumococo,1° Dosis,2 meses,90,Tucumán,17057,15043,88.2
+Neumococo,1° Dosis,2 meses,0,Total país,438021,370088,84.5
+Neumococo,2° Dosis,4 meses,6,Buenos Aires,161624,119961,74.2
+Neumococo,2° Dosis,4 meses,2,CABA,23988,16646,69.4
+Neumococo,2° Dosis,4 meses,10,Catamarca,3914,3677,93.9
+Neumococo,2° Dosis,4 meses,22,Chaco,14045,12571,89.5
+Neumococo,2° Dosis,4 meses,26,Chubut,5003,4851,97.0
+Neumococo,2° Dosis,4 meses,14,Córdoba,33694,31232,92.7
+Neumococo,2° Dosis,4 meses,18,Corrientes,13702,11412,83.3
+Neumococo,2° Dosis,4 meses,30,Entre Ríos,12403,11987,96.6
+Neumococo,2° Dosis,4 meses,34,Formosa,8219,5823,70.8
+Neumococo,2° Dosis,4 meses,38,Jujuy,6316,6287,99.5
+Neumococo,2° Dosis,4 meses,42,La Pampa,3124,3001,96.1
+Neumococo,2° Dosis,4 meses,46,La Rioja,4392,3277,74.6
+Neumococo,2° Dosis,4 meses,50,Mendoza,18474,17999,97.4
+Neumococo,2° Dosis,4 meses,54,Misiones,18880,15959,84.5
+Neumococo,2° Dosis,4 meses,58,Neuquén,6792,6688,98.5
+Neumococo,2° Dosis,4 meses,62,Río Negro,6256,6531,104.4
+Neumococo,2° Dosis,4 meses,66,Salta,14443,13898,96.2
+Neumococo,2° Dosis,4 meses,70,San Juan,8684,8411,96.9
+Neumococo,2° Dosis,4 meses,74,San Luis,4329,4400,101.6
+Neumococo,2° Dosis,4 meses,78,Santa Cruz,3050,2631,86.3
+Neumococo,2° Dosis,4 meses,82,Santa Fe,37257,32106,86.2
+Neumococo,2° Dosis,4 meses,86,Santiago del Estero,11127,10742,96.5
+Neumococo,2° Dosis,4 meses,94,Tierra del Fuego,1248,1256,100.6
+Neumococo,2° Dosis,4 meses,90,Tucumán,17057,15109,88.6
+Neumococo,2° Dosis,4 meses,0,Total país,438021,366455,83.7
+Meningococo,1° Dosis,3 meses,6,Buenos Aires,161624,118626,73.4
+Meningococo,1° Dosis,3 meses,2,CABA,23988,17489,72.9
+Meningococo,1° Dosis,3 meses,10,Catamarca,3914,3574,91.3
+Meningococo,1° Dosis,3 meses,22,Chaco,14045,12514,89.1
+Meningococo,1° Dosis,3 meses,26,Chubut,5003,4894,97.8
+Meningococo,1° Dosis,3 meses,14,Córdoba,33694,31467,93.4
+Meningococo,1° Dosis,3 meses,18,Corrientes,13702,11574,84.5
+Meningococo,1° Dosis,3 meses,30,Entre Ríos,12403,11815,95.3
+Meningococo,1° Dosis,3 meses,34,Formosa,8219,5813,70.7
+Meningococo,1° Dosis,3 meses,38,Jujuy,6316,6243,98.8
+Meningococo,1° Dosis,3 meses,42,La Pampa,3124,2970,95.1
+Meningococo,1° Dosis,3 meses,46,La Rioja,4392,3237,73.7
+Meningococo,1° Dosis,3 meses,50,Mendoza,18474,18250,98.8
+Meningococo,1° Dosis,3 meses,54,Misiones,18880,15940,84.4
+Meningococo,1° Dosis,3 meses,58,Neuquén,6792,6615,97.4
+Meningococo,1° Dosis,3 meses,62,Río Negro,6256,6515,104.1
+Meningococo,1° Dosis,3 meses,66,Salta,14443,13888,96.2
+Meningococo,1° Dosis,3 meses,70,San Juan,8684,8543,98.4
+Meningococo,1° Dosis,3 meses,74,San Luis,4329,4362,100.8
+Meningococo,1° Dosis,3 meses,78,Santa Cruz,3050,2639,86.5
+Meningococo,1° Dosis,3 meses,82,Santa Fe,37257,32254,86.6
+Meningococo,1° Dosis,3 meses,86,Santiago del Estero,11127,10610,95.4
+Meningococo,1° Dosis,3 meses,94,Tierra del Fuego,1248,1257,100.7
+Meningococo,1° Dosis,3 meses,90,Tucumán,17057,14687,86.1
+Meningococo,1° Dosis,3 meses,0,Total país,438021,365776,83.5
+Meningococo,2° Dosis,5 meses,6,Buenos Aires,161624,111225,68.8
+Meningococo,2° Dosis,5 meses,2,CABA,23988,16346,68.1
+Meningococo,2° Dosis,5 meses,10,Catamarca,3914,3345,85.5
+Meningococo,2° Dosis,5 meses,22,Chaco,14045,12011,85.5
+Meningococo,2° Dosis,5 meses,26,Chubut,5003,4689,93.7
+Meningococo,2° Dosis,5 meses,14,Córdoba,33694,29367,87.2
+Meningococo,2° Dosis,5 meses,18,Corrientes,13702,10811,78.9
+Meningococo,2° Dosis,5 meses,30,Entre Ríos,12403,11153,89.9
+Meningococo,2° Dosis,5 meses,34,Formosa,8219,5435,66.1
+Meningococo,2° Dosis,5 meses,38,Jujuy,6316,6076,96.2
+Meningococo,2° Dosis,5 meses,42,La Pampa,3124,2859,91.5
+Meningococo,2° Dosis,5 meses,46,La Rioja,4392,3095,70.5
+Meningococo,2° Dosis,5 meses,50,Mendoza,18474,17340,93.9
+Meningococo,2° Dosis,5 meses,54,Misiones,18880,14462,76.6
+Meningococo,2° Dosis,5 meses,58,Neuquén,6792,6513,95.9
+Meningococo,2° Dosis,5 meses,62,Río Negro,6256,6364,101.7
+Meningococo,2° Dosis,5 meses,66,Salta,14443,13147,91.0
+Meningococo,2° Dosis,5 meses,70,San Juan,8684,8131,93.6
+Meningococo,2° Dosis,5 meses,74,San Luis,4329,4326,99.9
+Meningococo,2° Dosis,5 meses,78,Santa Cruz,3050,2548,83.5
+Meningococo,2° Dosis,5 meses,82,Santa Fe,37257,30721,82.5
+Meningococo,2° Dosis,5 meses,86,Santiago del Estero,11127,9978,89.7
+Meningococo,2° Dosis,5 meses,94,Tierra del Fuego,1248,1252,100.3
+Meningococo,2° Dosis,5 meses,90,Tucumán,17057,14386,84.3
+Meningococo,2° Dosis,5 meses,0,Total país,438021,345580,78.9
+Hepatitis A,Única Dosis,12 meses,6,Buenos Aires,161624,122541,75.8
+Hepatitis A,Única Dosis,12 meses,2,CABA,23988,16148,67.3
+Hepatitis A,Única Dosis,12 meses,10,Catamarca,4394,3551,80.8
+Hepatitis A,Única Dosis,12 meses,22,Chaco,16446,13927,84.7
+Hepatitis A,Única Dosis,12 meses,26,Chubut,5364,4871,90.8
+Hepatitis A,Única Dosis,12 meses,14,Córdoba,37900,32300,85.2
+Hepatitis A,Única Dosis,12 meses,18,Corrientes,14093,11901,84.4
+Hepatitis A,Única Dosis,12 meses,30,Entre Ríos,12403,12452,100.4
+Hepatitis A,Única Dosis,12 meses,34,Formosa,8452,6100,72.2
+Hepatitis A,Única Dosis,12 meses,38,Jujuy,6316,6789,107.5
+Hepatitis A,Única Dosis,12 meses,42,La Pampa,3124,3126,100.1
+Hepatitis A,Única Dosis,12 meses,46,La Rioja,4579,3429,74.9
+Hepatitis A,Única Dosis,12 meses,50,Mendoza,19896,17946,90.2
+Hepatitis A,Única Dosis,12 meses,54,Misiones,19533,14741,75.5
+Hepatitis A,Única Dosis,12 meses,58,Neuquén,6792,6686,98.4
+Hepatitis A,Única Dosis,12 meses,62,Río Negro,6851,6789,99.1
+Hepatitis A,Única Dosis,12 meses,66,Salta,14865,15088,101.5
+Hepatitis A,Única Dosis,12 meses,70,San Juan,9761,7826,80.2
+Hepatitis A,Única Dosis,12 meses,74,San Luis,4869,4711,96.8
+Hepatitis A,Única Dosis,12 meses,78,Santa Cruz,3550,2952,83.2
+Hepatitis A,Única Dosis,12 meses,82,Santa Fe,41009,32458,79.1
+Hepatitis A,Única Dosis,12 meses,86,Santiago del Estero,13437,11459,85.3
+Hepatitis A,Única Dosis,12 meses,94,Tierra del Fuego,1248,1325,106.2
+Hepatitis A,Única Dosis,12 meses,90,Tucumán,17057,15725,92.2
+Hepatitis A,Única Dosis,12 meses,0,Total país,457551,374841,81.9
+Triple Viral,1° Dosis,12 meses,6,Buenos Aires,161624,123964,76.7
+Triple Viral,1° Dosis,12 meses,2,CABA,23988,18066,75.3
+Triple Viral,1° Dosis,12 meses,10,Catamarca,4394,3653,83.1
+Triple Viral,1° Dosis,12 meses,22,Chaco,16446,13941,84.8
+Triple Viral,1° Dosis,12 meses,26,Chubut,5364,4855,90.5
+Triple Viral,1° Dosis,12 meses,14,Córdoba,37900,32193,84.9
+Triple Viral,1° Dosis,12 meses,18,Corrientes,14093,11893,84.4
+Triple Viral,1° Dosis,12 meses,30,Entre Ríos,12403,12408,100.0
+Triple Viral,1° Dosis,12 meses,34,Formosa,8452,6012,71.1
+Triple Viral,1° Dosis,12 meses,38,Jujuy,6316,6751,106.9
+Triple Viral,1° Dosis,12 meses,42,La Pampa,3124,3091,98.9
+Triple Viral,1° Dosis,12 meses,46,La Rioja,4579,3237,70.7
+Triple Viral,1° Dosis,12 meses,50,Mendoza,19896,17907,90.0
+Triple Viral,1° Dosis,12 meses,54,Misiones,19533,16160,82.7
+Triple Viral,1° Dosis,12 meses,58,Neuquén,6792,6695,98.6
+Triple Viral,1° Dosis,12 meses,62,Río Negro,6851,6816,99.5
+Triple Viral,1° Dosis,12 meses,66,Salta,14865,15086,101.5
+Triple Viral,1° Dosis,12 meses,70,San Juan,9761,8409,86.1
+Triple Viral,1° Dosis,12 meses,74,San Luis,4869,4673,96.0
+Triple Viral,1° Dosis,12 meses,78,Santa Cruz,3550,2957,83.3
+Triple Viral,1° Dosis,12 meses,82,Santa Fe,41009,33437,81.5
+Triple Viral,1° Dosis,12 meses,86,Santiago del Estero,13437,11495,85.5
+Triple Viral,1° Dosis,12 meses,94,Tierra del Fuego,1248,1323,106.0
+Triple Viral,1° Dosis,12 meses,90,Tucumán,17057,15637,91.7
+Triple Viral,1° Dosis,12 meses,0,Total país,457551,380659,83.2
+Neumococo,Refuerzo,12 meses,6,Buenos Aires,161624,117680,72.8
+Neumococo,Refuerzo,12 meses,2,CABA,23988,15119,63.0
+Neumococo,Refuerzo,12 meses,10,Catamarca,4394,3537,80.5
+Neumococo,Refuerzo,12 meses,22,Chaco,16446,13365,81.3
+Neumococo,Refuerzo,12 meses,26,Chubut,5364,4763,88.8
+Neumococo,Refuerzo,12 meses,14,Córdoba,37900,31682,83.6
+Neumococo,Refuerzo,12 meses,18,Corrientes,14093,11407,80.9
+Neumococo,Refuerzo,12 meses,30,Entre Ríos,12403,12235,98.6
+Neumococo,Refuerzo,12 meses,34,Formosa,8452,5726,67.7
+Neumococo,Refuerzo,12 meses,38,Jujuy,6316,6738,106.7
+Neumococo,Refuerzo,12 meses,42,La Pampa,3124,3077,98.5
+Neumococo,Refuerzo,12 meses,46,La Rioja,4579,3230,70.5
+Neumococo,Refuerzo,12 meses,50,Mendoza,19896,17423,87.6
+Neumococo,Refuerzo,12 meses,54,Misiones,19533,14565,74.6
+Neumococo,Refuerzo,12 meses,58,Neuquén,6792,6638,97.7
+Neumococo,Refuerzo,12 meses,62,Río Negro,6851,6646,97.0
+Neumococo,Refuerzo,12 meses,66,Salta,14865,14885,100.1
+Neumococo,Refuerzo,12 meses,70,San Juan,9761,8680,88.9
+Neumococo,Refuerzo,12 meses,74,San Luis,4869,4678,96.1
+Neumococo,Refuerzo,12 meses,78,Santa Cruz,3550,2909,81.9
+Neumococo,Refuerzo,12 meses,82,Santa Fe,41009,31756,77.4
+Neumococo,Refuerzo,12 meses,86,Santiago del Estero,13437,11238,83.6
+Neumococo,Refuerzo,12 meses,94,Tierra del Fuego,1248,1307,104.7
+Neumococo,Refuerzo,12 meses,90,Tucumán,17057,15373,90.1
+Neumococo,Refuerzo,12 meses,0,Total país,457551,364657,79.7
+Fiebre Amarilla,1° Dosis,12 meses,22,Chaco,386,271,70.2
+Fiebre Amarilla,1° Dosis,12 meses,18,Corrientes,14093,9409,66.8
+Fiebre Amarilla,1° Dosis,12 meses,34,Formosa,8452,3883,45.9
+Fiebre Amarilla,1° Dosis,12 meses,38,Jujuy,1815,1423,78.4
+Fiebre Amarilla,1° Dosis,12 meses,54,Misiones,19533,13409,68.6
+Fiebre Amarilla,1° Dosis,12 meses,66,Salta,6160,4611,74.9
+Fiebre Amarilla,1° Dosis,12 meses,0,Total país,50439,33006,65.4
+Meningococo,Refuerzo,15 meses,6,Buenos Aires,161624,105658,65.4
+Meningococo,Refuerzo,15 meses,2,CABA,23988,16237,67.7
+Meningococo,Refuerzo,15 meses,10,Catamarca,4394,3260,74.2
+Meningococo,Refuerzo,15 meses,22,Chaco,16446,12583,76.5
+Meningococo,Refuerzo,15 meses,26,Chubut,5364,4377,81.6
+Meningococo,Refuerzo,15 meses,14,Córdoba,37900,27951,73.7
+Meningococo,Refuerzo,15 meses,18,Corrientes,14093,9714,68.9
+Meningococo,Refuerzo,15 meses,30,Entre Ríos,12403,10639,85.8
+Meningococo,Refuerzo,15 meses,34,Formosa,8452,4836,57.2
+Meningococo,Refuerzo,15 meses,38,Jujuy,6316,6369,100.8
+Meningococo,Refuerzo,15 meses,42,La Pampa,3124,2776,88.9
+Meningococo,Refuerzo,15 meses,46,La Rioja,4579,2894,63.2
+Meningococo,Refuerzo,15 meses,50,Mendoza,19896,16011,80.5
+Meningococo,Refuerzo,15 meses,54,Misiones,19533,12962,66.4
+Meningococo,Refuerzo,15 meses,58,Neuquén,6792,6487,95.5
+Meningococo,Refuerzo,15 meses,62,Río Negro,6851,6138,89.6
+Meningococo,Refuerzo,15 meses,66,Salta,14865,13990,94.1
+Meningococo,Refuerzo,15 meses,70,San Juan,9761,8024,82.2
+Meningococo,Refuerzo,15 meses,74,San Luis,4869,4460,91.6
+Meningococo,Refuerzo,15 meses,78,Santa Cruz,3550,2749,77.4
+Meningococo,Refuerzo,15 meses,82,Santa Fe,41009,29460,71.8
+Meningococo,Refuerzo,15 meses,86,Santiago del Estero,13437,9999,74.4
+Meningococo,Refuerzo,15 meses,94,Tierra del Fuego,1248,1255,100.6
+Meningococo,Refuerzo,15 meses,90,Tucumán,17057,14781,86.7
+Meningococo,Refuerzo,15 meses,0,Total país,457551,333610,72.9
+Varicela,1° Dosis,15 meses,6,Buenos Aires,161624,114960,71.1
+Varicela,1° Dosis,15 meses,2,CABA,23988,17248,71.9
+Varicela,1° Dosis,15 meses,10,Catamarca,4394,3326,75.7
+Varicela,1° Dosis,15 meses,22,Chaco,16446,12981,78.9
+Varicela,1° Dosis,15 meses,26,Chubut,5364,4476,83.4
+Varicela,1° Dosis,15 meses,14,Córdoba,37900,29732,78.4
+Varicela,1° Dosis,15 meses,18,Corrientes,14093,10490,74.4
+Varicela,1° Dosis,15 meses,30,Entre Ríos,12403,11368,91.7
+Varicela,1° Dosis,15 meses,34,Formosa,8452,5143,60.8
+Varicela,1° Dosis,15 meses,38,Jujuy,6316,6243,98.8
+Varicela,1° Dosis,15 meses,42,La Pampa,3124,2826,90.5
+Varicela,1° Dosis,15 meses,46,La Rioja,4579,2989,65.3
+Varicela,1° Dosis,15 meses,50,Mendoza,19896,16666,83.8
+Varicela,1° Dosis,15 meses,54,Misiones,19533,14191,72.7
+Varicela,1° Dosis,15 meses,58,Neuquén,6792,6585,97.0
+Varicela,1° Dosis,15 meses,62,Río Negro,6851,6195,90.4
+Varicela,1° Dosis,15 meses,66,Salta,14865,14396,96.8
+Varicela,1° Dosis,15 meses,70,San Juan,9761,8200,84.0
+Varicela,1° Dosis,15 meses,74,San Luis,4869,4451,91.4
+Varicela,1° Dosis,15 meses,78,Santa Cruz,3550,2823,79.5
+Varicela,1° Dosis,15 meses,82,Santa Fe,41009,30256,73.8
+Varicela,1° Dosis,15 meses,86,Santiago del Estero,13437,10397,77.4
+Varicela,1° Dosis,15 meses,94,Tierra del Fuego,1248,1260,101.0
+Varicela,1° Dosis,15 meses,90,Tucumán,17057,14897,87.3
+Varicela,1° Dosis,15 meses,0,Total país,457551,352099,77.0
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,6,Buenos Aires,161624,99970,61.9
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,2,CABA,23988,9872,41.2
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,10,Catamarca,4394,3067,69.8
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,22,Chaco,16446,11932,72.6
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,26,Chubut,5364,4077,76.0
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,14,Córdoba,37900,27964,73.8
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,18,Corrientes,14093,9074,64.4
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,30,Entre Ríos,12403,10160,81.9
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,34,Formosa,8452,4514,53.4
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,38,Jujuy,6316,5697,90.2
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,42,La Pampa,3124,2836,90.8
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,46,La Rioja,4579,2756,60.2
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,50,Mendoza,19896,15689,78.9
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,54,Misiones,19533,11289,57.8
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,58,Neuquén,6792,6334,93.3
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,62,Río Negro,6851,5685,83.0
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,66,Salta,14865,13630,91.7
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,70,San Juan,9761,7212,73.9
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,74,San Luis,4869,4439,91.2
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,78,Santa Cruz,3550,2581,72.7
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,82,Santa Fe,41009,28403,69.3
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,86,Santiago del Estero,13437,9260,68.9
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,94,Tierra del Fuego,1248,1234,98.9
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,90,Tucumán,17057,15148,88.8
+Quíntuple/Séxtuple,Refuerzo,15 - 18 meses,0,Total país,457551,312823,68.4
+Triple Viral,Refuerzo,5 años,6,Buenos Aires,225657,69494,30.8
+Triple Viral,Refuerzo,5 años,2,CABA,33981,10616,31.2
+Triple Viral,Refuerzo,5 años,10,Catamarca,6520,3356,51.5
+Triple Viral,Refuerzo,5 años,22,Chaco,21678,12035,55.5
+Triple Viral,Refuerzo,5 años,26,Chubut,7718,3948,51.2
+Triple Viral,Refuerzo,5 años,14,Córdoba,50633,25618,50.6
+Triple Viral,Refuerzo,5 años,18,Corrientes,17810,8403,47.2
+Triple Viral,Refuerzo,5 años,30,Entre Ríos,19181,8368,43.6
+Triple Viral,Refuerzo,5 años,34,Formosa,10159,4982,49.0
+Triple Viral,Refuerzo,5 años,38,Jujuy,10509,6687,63.6
+Triple Viral,Refuerzo,5 años,42,La Pampa,4075,2566,63.0
+Triple Viral,Refuerzo,5 años,46,La Rioja,5605,2522,45.0
+Triple Viral,Refuerzo,5 años,50,Mendoza,25700,21206,82.5
+Triple Viral,Refuerzo,5 años,54,Misiones,22645,12380,54.7
+Triple Viral,Refuerzo,5 años,58,Neuquén,9305,7164,77.0
+Triple Viral,Refuerzo,5 años,62,Río Negro,8085,5683,70.3
+Triple Viral,Refuerzo,5 años,66,Salta,20906,17437,83.4
+Triple Viral,Refuerzo,5 años,70,San Juan,12517,6635,53.0
+Triple Viral,Refuerzo,5 años,74,San Luis,6479,4621,71.3
+Triple Viral,Refuerzo,5 años,78,Santa Cruz,4570,2996,65.6
+Triple Viral,Refuerzo,5 años,82,Santa Fe,46666,22044,47.2
+Triple Viral,Refuerzo,5 años,86,Santiago del Estero,13675,7327,53.6
+Triple Viral,Refuerzo,5 años,94,Tierra del Fuego,2355,1619,68.7
+Triple Viral,Refuerzo,5 años,90,Tucumán,23147,17130,74.0
+Triple Viral,Refuerzo,5 años,0,Total país,609576,284837,46.7
+Varicela,Refuerzo,5 años,6,Buenos Aires,225657,67741,30.0
+Varicela,Refuerzo,5 años,2,CABA,33981,10804,31.8
+Varicela,Refuerzo,5 años,10,Catamarca,6520,3133,48.1
+Varicela,Refuerzo,5 años,22,Chaco,21678,11393,52.6
+Varicela,Refuerzo,5 años,26,Chubut,7718,3918,50.8
+Varicela,Refuerzo,5 años,14,Córdoba,50633,25277,49.9
+Varicela,Refuerzo,5 años,18,Corrientes,17810,7963,44.7
+Varicela,Refuerzo,5 años,30,Entre Ríos,19181,8179,42.6
+Varicela,Refuerzo,5 años,34,Formosa,10159,4509,44.4
+Varicela,Refuerzo,5 años,38,Jujuy,10509,6241,59.4
+Varicela,Refuerzo,5 años,42,La Pampa,4075,2478,60.8
+Varicela,Refuerzo,5 años,46,La Rioja,5605,2570,45.9
+Varicela,Refuerzo,5 años,50,Mendoza,25700,21006,81.7
+Varicela,Refuerzo,5 años,54,Misiones,22645,12195,53.9
+Varicela,Refuerzo,5 años,58,Neuquén,9305,7136,76.7
+Varicela,Refuerzo,5 años,62,Río Negro,8085,5641,69.8
+Varicela,Refuerzo,5 años,66,Salta,20906,17198,82.3
+Varicela,Refuerzo,5 años,70,San Juan,12517,7453,59.5
+Varicela,Refuerzo,5 años,74,San Luis,6479,4591,70.9
+Varicela,Refuerzo,5 años,78,Santa Cruz,4570,2959,64.7
+Varicela,Refuerzo,5 años,82,Santa Fe,46666,21521,46.1
+Varicela,Refuerzo,5 años,86,Santiago del Estero,13675,6816,49.8
+Varicela,Refuerzo,5 años,94,Tierra del Fuego,2355,1589,67.5
+Varicela,Refuerzo,5 años,90,Tucumán,23147,16886,73.0
+Varicela,Refuerzo,5 años,0,Total país,609576,279197,45.8
+IPV/Séxtuple,Refuerzo,5 años,6,Buenos Aires,225657,70172,31.1
+IPV/Séxtuple,Refuerzo,5 años,2,CABA,33981,10242,30.1
+IPV/Séxtuple,Refuerzo,5 años,10,Catamarca,6520,3429,52.6
+IPV/Séxtuple,Refuerzo,5 años,22,Chaco,21678,12103,55.8
+IPV/Séxtuple,Refuerzo,5 años,26,Chubut,7718,3996,51.8
+IPV/Séxtuple,Refuerzo,5 años,14,Córdoba,50633,26298,51.9
+IPV/Séxtuple,Refuerzo,5 años,18,Corrientes,17810,8460,47.5
+IPV/Séxtuple,Refuerzo,5 años,30,Entre Ríos,19181,8492,44.3
+IPV/Séxtuple,Refuerzo,5 años,34,Formosa,10159,5199,51.2
+IPV/Séxtuple,Refuerzo,5 años,38,Jujuy,10509,7203,68.5
+IPV/Séxtuple,Refuerzo,5 años,42,La Pampa,4075,2609,64.0
+IPV/Séxtuple,Refuerzo,5 años,46,La Rioja,5605,2767,49.4
+IPV/Séxtuple,Refuerzo,5 años,50,Mendoza,25700,21285,82.8
+IPV/Séxtuple,Refuerzo,5 años,54,Misiones,22645,13090,57.8
+IPV/Séxtuple,Refuerzo,5 años,58,Neuquén,9305,7186,77.2
+IPV/Séxtuple,Refuerzo,5 años,62,Río Negro,8085,5733,70.9
+IPV/Séxtuple,Refuerzo,5 años,66,Salta,20906,17559,84.0
+IPV/Séxtuple,Refuerzo,5 años,70,San Juan,12517,7586,60.6
+IPV/Séxtuple,Refuerzo,5 años,74,San Luis,6479,4675,72.2
+IPV/Séxtuple,Refuerzo,5 años,78,Santa Cruz,4570,3047,66.7
+IPV/Séxtuple,Refuerzo,5 años,82,Santa Fe,46666,22361,47.9
+IPV/Séxtuple,Refuerzo,5 años,86,Santiago del Estero,13675,7515,55.0
+IPV/Séxtuple,Refuerzo,5 años,94,Tierra del Fuego,2355,1634,69.4
+IPV/Séxtuple,Refuerzo,5 años,90,Tucumán,23147,17430,75.3
+IPV/Séxtuple,Refuerzo,5 años,0,Total país,609576,290071,47.6
+Triple Bacteriana Celular,Refuerzo,5 años,6,Buenos Aires,225657,67856,30.1
+Triple Bacteriana Celular,Refuerzo,5 años,2,CABA,33981,9004,26.5
+Triple Bacteriana Celular,Refuerzo,5 años,10,Catamarca,6520,3271,50.2
+Triple Bacteriana Celular,Refuerzo,5 años,22,Chaco,21678,12018,55.4
+Triple Bacteriana Celular,Refuerzo,5 años,26,Chubut,7718,3982,51.6
+Triple Bacteriana Celular,Refuerzo,5 años,14,Córdoba,50633,26109,51.6
+Triple Bacteriana Celular,Refuerzo,5 años,18,Corrientes,17810,8431,47.3
+Triple Bacteriana Celular,Refuerzo,5 años,30,Entre Ríos,19181,8441,44.0
+Triple Bacteriana Celular,Refuerzo,5 años,34,Formosa,10159,4998,49.2
+Triple Bacteriana Celular,Refuerzo,5 años,38,Jujuy,10509,6912,65.8
+Triple Bacteriana Celular,Refuerzo,5 años,42,La Pampa,4075,2593,63.6
+Triple Bacteriana Celular,Refuerzo,5 años,46,La Rioja,5605,2714,48.4
+Triple Bacteriana Celular,Refuerzo,5 años,50,Mendoza,25700,21255,82.7
+Triple Bacteriana Celular,Refuerzo,5 años,54,Misiones,22645,12824,56.6
+Triple Bacteriana Celular,Refuerzo,5 años,58,Neuquén,9305,7134,76.7
+Triple Bacteriana Celular,Refuerzo,5 años,62,Río Negro,8085,5414,67.0
+Triple Bacteriana Celular,Refuerzo,5 años,66,Salta,20906,17489,83.7
+Triple Bacteriana Celular,Refuerzo,5 años,70,San Juan,12517,7528,60.1
+Triple Bacteriana Celular,Refuerzo,5 años,74,San Luis,6479,4653,71.8
+Triple Bacteriana Celular,Refuerzo,5 años,78,Santa Cruz,4570,3016,66.0
+Triple Bacteriana Celular,Refuerzo,5 años,82,Santa Fe,46666,21019,45.0
+Triple Bacteriana Celular,Refuerzo,5 años,86,Santiago del Estero,13675,7318,53.5
+Triple Bacteriana Celular,Refuerzo,5 años,94,Tierra del Fuego,2355,1628,69.1
+Triple Bacteriana Celular,Refuerzo,5 años,90,Tucumán,23147,17073,73.8
+Triple Bacteriana Celular,Refuerzo,5 años,0,Total país,609576,282680,46.4
+Meningococo,Única Dosis,11 años,6,Buenos Aires,288084,116262,40.4
+Meningococo,Única Dosis,11 años,2,CABA,39089,17088,43.7
+Meningococo,Única Dosis,11 años,10,Catamarca,6388,3862,60.5
+Meningococo,Única Dosis,11 años,22,Chaco,21889,11388,52.0
+Meningococo,Única Dosis,11 años,26,Chubut,9904,5513,55.7
+Meningococo,Única Dosis,11 años,14,Córdoba,55676,30195,54.2
+Meningococo,Única Dosis,11 años,18,Corrientes,19638,9025,46.0
+Meningococo,Única Dosis,11 años,30,Entre Ríos,22212,12009,54.1
+Meningococo,Única Dosis,11 años,34,Formosa,11919,3877,32.5
+Meningococo,Única Dosis,11 años,38,Jujuy,13297,10588,79.6
+Meningococo,Única Dosis,11 años,42,La Pampa,5375,3806,70.8
+Meningococo,Única Dosis,11 años,46,La Rioja,6353,3488,54.9
+Meningococo,Única Dosis,11 años,50,Mendoza,31413,24963,79.5
+Meningococo,Única Dosis,11 años,54,Misiones,25236,13344,52.9
+Meningococo,Única Dosis,11 años,58,Neuquén,10971,9938,90.6
+Meningococo,Única Dosis,11 años,62,Río Negro,11690,6090,52.1
+Meningococo,Única Dosis,11 años,66,Salta,24189,20211,83.6
+Meningococo,Única Dosis,11 años,70,San Juan,14849,8975,60.4
+Meningococo,Única Dosis,11 años,74,San Luis,7560,5528,73.1
+Meningococo,Única Dosis,11 años,78,Santa Cruz,5798,4097,70.7
+Meningococo,Única Dosis,11 años,82,Santa Fe,55757,29888,53.6
+Meningococo,Única Dosis,11 años,86,Santiago del Estero,16673,9258,55.5
+Meningococo,Única Dosis,11 años,94,Tierra del Fuego,2819,1960,69.5
+Meningococo,Única Dosis,11 años,90,Tucumán,27633,19889,72.0
+Meningococo,Única Dosis,11 años,0,Total país,734412,381242,51.9
+Triple Bacteriana Acelular,Única Dosis,11 años,6,Buenos Aires,288084,124816,43.3
+Triple Bacteriana Acelular,Única Dosis,11 años,2,CABA,39089,16756,42.9
+Triple Bacteriana Acelular,Única Dosis,11 años,10,Catamarca,6388,4115,64.4
+Triple Bacteriana Acelular,Única Dosis,11 años,22,Chaco,21889,11526,52.7
+Triple Bacteriana Acelular,Única Dosis,11 años,26,Chubut,9904,5616,56.7
+Triple Bacteriana Acelular,Única Dosis,11 años,14,Córdoba,55676,31537,56.6
+Triple Bacteriana Acelular,Única Dosis,11 años,18,Corrientes,19638,9301,47.4
+Triple Bacteriana Acelular,Única Dosis,11 años,30,Entre Ríos,22212,12767,57.5
+Triple Bacteriana Acelular,Única Dosis,11 años,34,Formosa,11919,5652,47.4
+Triple Bacteriana Acelular,Única Dosis,11 años,38,Jujuy,13297,10796,81.2
+Triple Bacteriana Acelular,Única Dosis,11 años,42,La Pampa,5375,4015,74.7
+Triple Bacteriana Acelular,Única Dosis,11 años,46,La Rioja,6353,3622,57.0
+Triple Bacteriana Acelular,Única Dosis,11 años,50,Mendoza,31413,25172,80.1
+Triple Bacteriana Acelular,Única Dosis,11 años,54,Misiones,25236,14473,57.4
+Triple Bacteriana Acelular,Única Dosis,11 años,58,Neuquén,10971,8903,81.2
+Triple Bacteriana Acelular,Única Dosis,11 años,62,Río Negro,11690,6131,52.4
+Triple Bacteriana Acelular,Única Dosis,11 años,66,Salta,24189,20740,85.7
+Triple Bacteriana Acelular,Única Dosis,11 años,70,San Juan,14849,9012,60.7
+Triple Bacteriana Acelular,Única Dosis,11 años,74,San Luis,7560,5571,73.7
+Triple Bacteriana Acelular,Única Dosis,11 años,78,Santa Cruz,5798,4121,71.1
+Triple Bacteriana Acelular,Única Dosis,11 años,82,Santa Fe,55757,30519,54.7
+Triple Bacteriana Acelular,Única Dosis,11 años,86,Santiago del Estero,16673,9513,57.1
+Triple Bacteriana Acelular,Única Dosis,11 años,94,Tierra del Fuego,2819,1981,70.3
+Triple Bacteriana Acelular,Única Dosis,11 años,90,Tucumán,27633,20993,76.0
+Triple Bacteriana Acelular,Única Dosis,11 años,0,Total país,734412,397648,54.1
+VPH Femenino,Única Dosis,11 años,6,Buenos Aires,137599,64477,46.9
+VPH Femenino,Única Dosis,11 años,2,CABA,19011,9201,48.4
+VPH Femenino,Única Dosis,11 años,10,Catamarca,3208,2120,66.1
+VPH Femenino,Única Dosis,11 años,22,Chaco,11063,5789,52.3
+VPH Femenino,Única Dosis,11 años,26,Chubut,4952,2824,57.0
+VPH Femenino,Única Dosis,11 años,14,Córdoba,27108,15001,55.3
+VPH Femenino,Única Dosis,11 años,18,Corrientes,11782,4965,42.1
+VPH Femenino,Única Dosis,11 años,30,Entre Ríos,11536,5913,51.3
+VPH Femenino,Única Dosis,11 años,34,Formosa,5818,2987,51.3
+VPH Femenino,Única Dosis,11 años,38,Jujuy,6631,4967,74.9
+VPH Femenino,Única Dosis,11 años,42,La Pampa,2662,1834,68.9
+VPH Femenino,Única Dosis,11 años,46,La Rioja,3086,1888,61.2
+VPH Femenino,Única Dosis,11 años,50,Mendoza,15740,11796,74.9
+VPH Femenino,Única Dosis,11 años,54,Misiones,12455,7469,60.0
+VPH Femenino,Única Dosis,11 años,58,Neuquén,5359,4971,92.8
+VPH Femenino,Única Dosis,11 años,62,Río Negro,5849,3191,54.6
+VPH Femenino,Única Dosis,11 años,66,Salta,12110,10333,85.3
+VPH Femenino,Única Dosis,11 años,70,San Juan,7495,4636,61.9
+VPH Femenino,Única Dosis,11 años,74,San Luis,3718,2814,75.7
+VPH Femenino,Única Dosis,11 años,78,Santa Cruz,2762,2130,77.1
+VPH Femenino,Única Dosis,11 años,82,Santa Fe,27391,14399,52.6
+VPH Femenino,Única Dosis,11 años,86,Santiago del Estero,8673,4957,57.2
+VPH Femenino,Única Dosis,11 años,94,Tierra del Fuego,1379,994,72.1
+VPH Femenino,Única Dosis,11 años,90,Tucumán,13636,10589,77.7
+VPH Femenino,Única Dosis,11 años,0,Total país,361023,200245,55.5
+VPH Masculino,Única Dosis,11 años,6,Buenos Aires,150485,60373,40.1
+VPH Masculino,Única Dosis,11 años,2,CABA,20078,8921,44.4
+VPH Masculino,Única Dosis,11 años,10,Catamarca,3180,1937,60.9
+VPH Masculino,Única Dosis,11 años,22,Chaco,10826,5631,52.0
+VPH Masculino,Única Dosis,11 años,26,Chubut,4952,2737,55.3
+VPH Masculino,Única Dosis,11 años,14,Córdoba,28568,14408,50.4
+VPH Masculino,Única Dosis,11 años,18,Corrientes,7856,4348,55.3
+VPH Masculino,Única Dosis,11 años,30,Entre Ríos,10676,5460,51.1
+VPH Masculino,Única Dosis,11 años,34,Formosa,6101,2879,47.2
+VPH Masculino,Única Dosis,11 años,38,Jujuy,6666,4875,73.1
+VPH Masculino,Única Dosis,11 años,42,La Pampa,2714,1672,61.6
+VPH Masculino,Única Dosis,11 años,46,La Rioja,3267,1800,55.1
+VPH Masculino,Única Dosis,11 años,50,Mendoza,15673,11564,73.8
+VPH Masculino,Única Dosis,11 años,54,Misiones,12781,7130,55.8
+VPH Masculino,Única Dosis,11 años,58,Neuquén,5611,4992,89.0
+VPH Masculino,Única Dosis,11 años,62,Río Negro,5849,2881,49.3
+VPH Masculino,Única Dosis,11 años,66,Salta,12080,10212,84.5
+VPH Masculino,Única Dosis,11 años,70,San Juan,7354,4300,58.5
+VPH Masculino,Única Dosis,11 años,74,San Luis,3842,2742,71.4
+VPH Masculino,Única Dosis,11 años,78,Santa Cruz,3036,1977,65.1
+VPH Masculino,Única Dosis,11 años,82,Santa Fe,28361,13245,46.7
+VPH Masculino,Única Dosis,11 años,86,Santiago del Estero,8000,4591,57.4
+VPH Masculino,Única Dosis,11 años,94,Tierra del Fuego,1440,928,64.4
+VPH Masculino,Única Dosis,11 años,90,Tucumán,13997,10363,74.0
+VPH Masculino,Única Dosis,11 años,0,Total país,373393,189966,50.9
+Fiebre Amarilla,Refuerzo,11 años,22,Chaco,498,225,45.2
+Fiebre Amarilla,Refuerzo,11 años,18,Corrientes,19638,3298,16.8
+Fiebre Amarilla,Refuerzo,11 años,34,Formosa,11919,3458,29.0
+Fiebre Amarilla,Refuerzo,11 años,38,Jujuy,3511,798,22.7
+Fiebre Amarilla,Refuerzo,11 años,54,Misiones,25236,7485,29.7
+Fiebre Amarilla,Refuerzo,11 años,66,Salta,8000,5574,69.7
+Fiebre Amarilla,Refuerzo,11 años,0,Total país,68802,20838,30.3
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,6,Buenos Aires,161624,104639,64.7
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,2,CABA,23988,11942,49.8
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,10,Catamarca,3914,3034,77.5
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,22,Chaco,14045,11628,82.8
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,26,Chubut,5364,4327,80.7
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,14,Córdoba,33694,26671,79.2
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,18,Corrientes,10278,10582,103.0
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,30,Entre Ríos,12403,10898,87.9
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,34,Formosa,8219,4716,57.4
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,38,Jujuy,6316,5838,92.4
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,42,La Pampa,3124,2789,89.3
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,46,La Rioja,4392,2902,66.1
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,50,Mendoza,18474,14463,78.3
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,54,Misiones,18880,13022,69.0
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,58,Neuquén,6792,6108,89.9
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,62,Río Negro,6256,5889,94.1
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,66,Salta,14443,12225,84.6
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,70,San Juan,8786,7462,84.9
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,74,San Luis,4329,3785,87.4
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,78,Santa Cruz,3050,2335,76.6
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,82,Santa Fe,37257,26891,72.2
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,86,Santiago del Estero,11127,9404,84.5
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,94,Tierra del Fuego,1248,1251,100.2
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,90,Tucumán,17057,12227,71.7
+Triple Bacteriana Acelular,Única Dosis,Embarazadas,0,Total país,435060,315028,72.4
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,6,Buenos Aires,80847,49923,61.7
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,2,CABA,11994,8235,68.7
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,10,Catamarca,1961,1329,67.8
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,22,Chaco,7028,5230,74.4
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,26,Chubut,2683,2073,77.3
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,14,Córdoba,16854,12068,71.6
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,18,Corrientes,5139,4238,82.5
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,30,Entre Ríos,6206,5103,82.2
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,34,Formosa,4113,2177,52.9
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,38,Jujuy,3160,2723,86.2
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,42,La Pampa,1561,1226,78.5
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,46,La Rioja,2197,1229,55.9
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,50,Mendoza,9241,6963,75.3
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,54,Misiones,9441,4448,47.1
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,58,Neuquén,3398,2330,68.6
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,62,Río Negro,3131,2541,81.2
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,66,Salta,7227,5104,70.6
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,70,San Juan,4397,3220,73.2
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,74,San Luis,2437,1656,68.0
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,78,Santa Cruz,1527,898,58.8
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,82,Santa Fe,18632,13789,74.0
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,86,Santiago del Estero,5569,3647,65.5
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,94,Tierra del Fuego,624,582,93.3
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,90,Tucumán,8533,6924,81.1
+Virus Sincicial Respiratorio,Única Dosis,Embarazadas,0,Total país,217900,147656,67.8
