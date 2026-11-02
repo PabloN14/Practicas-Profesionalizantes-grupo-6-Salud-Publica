@@ -112,15 +112,25 @@ El tablero tiene 6 páginas, con navegación y el tema visual del Politécnico.
 | Provincias | ¿Dónde hay más notificaciones por habitante? |
 | Vacuna VSR | Bronquiolitis por edad y cobertura de la vacuna |
 
-![Resumen](docs/capturas/resumen.png)
 
-![Eventos](docs/capturas/eventos.png)
 
-![Temporada](docs/capturas/temporada.png)
+### Página de inicio
+![Inicio](./Docs/capturas/inicio.png)
 
-![Provincias](docs/capturas/provincias.png)
+### Resumen
+![Resumen](./Docs/capturas/resumen.png)
 
-![Vacuna VSR](docs/capturas/vacuna_vsr.png)
+### Eventos
+![Eventos](./Docs/capturas/eventos.png)
+
+### Temporada
+![Temporada](./Docs/capturas/temporada.png)
+
+### Provincias
+![Provincias](./Docs/capturas/provincias.png)
+
+### Vacuna VSR
+![Vacuna VSR](./Docs/capturas/vacuna vsr.png)
 
 > **Nota:** los mapas usan Azure Maps y se muestran solo si se inicia sesión en Power BI Desktop con una cuenta laboral o educativa. En la carpeta `docs/capturas/` y en el PDF del tablero se pueden ver sin iniciar sesión.
 
