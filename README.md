@@ -130,7 +130,7 @@ El tablero tiene 6 páginas, con navegación y el tema visual del Politécnico.
 ![Provincias](./Docs/capturas/provincias.png)
 
 ### Vacuna VSR
-![Vacuna VSR](./Docs/capturas/vacuna vsr.png)
+![Vacuna_VSR](./Docs/capturas/vacuna_vsr.png)
 
 > **Nota:** los mapas usan Azure Maps y se muestran solo si se inicia sesión en Power BI Desktop con una cuenta laboral o educativa. En la carpeta `docs/capturas/` y en el PDF del tablero se pueden ver sin iniciar sesión.
 
